@@ -325,6 +325,8 @@ docker pull mariadb:latest
 ```
 
 **บันทึกผลการทดลอง 1:**
+<img width="633" height="206" alt="image" src="https://github.com/user-attachments/assets/168afbc6-f66b-4dc8-936c-83cc0745c972" />
+
 ```bash
  รูปผลการโหลด Images ที่สมบูรณ์ 
 ```
